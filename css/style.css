@@ -27,3 +27,8 @@
     background-size: cover;
     background-position: center center;
 }
+
+#contact {
+    padding: 20px 0px;
+    background-color: aqua;
+}
