@@ -7,3 +7,9 @@
     width: 30%;
     display: inline-block;
 }
+
+@media(max-width: 400px){
+    .img-div {
+        width: 100%
+    }
+}
