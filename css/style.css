@@ -1,5 +1,10 @@
+#about {
+    padding: 20px 0px;
+}
+
 #about img {
-    max-width: 100px
+    max-width: 100px;
+    margin: 20px 0px;
 }
 
 .img-div {
