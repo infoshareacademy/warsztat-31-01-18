@@ -1,0 +1,16 @@
+#about img {
+    max-width: 100px
+}
+
+.img-div {
+    text-align: center;
+}
+
+#hero{
+    width: 100%;
+    height: 400px;
+    background-image: url('../img/hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
