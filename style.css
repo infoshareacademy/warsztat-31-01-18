@@ -1,11 +1,9 @@
-p {
-    border: 1px solid black;
+#about img {
+    max-width: 100px
 }
 
-.red {
-    color: red;
-}
-
-.green {
-    color: greenyellow;
+.img-div {
+    text-align: center;
+    width: 30%;
+    display: inline-block;
 }
